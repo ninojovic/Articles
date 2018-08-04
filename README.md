@@ -3,3 +3,4 @@ REACT:</br>
 </br></br></br>
 JAVASCRIPT:</br>
   <a href="http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/">Execution context in depth</a>
+  <a href="https://medium.com/@danparkk/javascript-basics-block-scope-in-es6-9b3dcc7d397e">ES6 block scope (let, const)</a>
